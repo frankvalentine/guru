@@ -1,0 +1,364 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+Loaded 0 tagged overlays from overlays folder
+Loaded 247 sound IDs from sounds folder
+Decompressing took 0.001000 seconds
+Loaded 1442 tagged sprites from sprites folder
+Finished loading Sprite bank in 0.053000 sec
+Decompressing took 0.026000 seconds
+Loaded 1468 animations from animations folder
+Finished loading animation bank in 0.475000 sec
+Decompressing took 0.020000 seconds
+Object id 85996 (The Apocalypse# just coins 9) seen as an apocalypse trigger
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=1167
+Expected line name useAppearIndex not found in line pos=0.000000,-30.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99970
+Expected line name useAppearIndex not found in line pos=-13.000000,-49.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=100098
+Expected line name useAppearIndex not found in line pos=2.000000,3.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99986
+Expected line name useAppearIndex not found in line pos=54.000000,-42.000000
+Object id 85998 (The Apocalypse# just coins 3) seen as an apocalypse trigger
+Object id 85997 (The Apocalypse# just coins 6) seen as an apocalypse trigger
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=100098
+Expected line name useAppearIndex not found in line pos=2.000000,3.000000
+Object id 793 (The Apocalypse) seen as an apocalypse trigger
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=100106
+Expected line name useAppearIndex not found in line pos=30.000000,-50.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=1167
+Expected line name useAppearIndex not found in line pos=0.000000,-30.000000
+Object id 85994 (The Apocalypse# coins) seen as an apocalypse trigger
+Object id 85995 (The Apocalypse# just coins 12) seen as an apocalypse trigger
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99978
+Expected line name useAppearIndex not found in line pos=7.000000,-6.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99974
+Expected line name useAppearIndex not found in line pos=11.000000,-1.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=100001
+Expected line name useAppearIndex not found in line pos=0.000000,0.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99982
+Expected line name useAppearIndex not found in line pos=-25.000000,24.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=711
+Expected line name useAppearIndex not found in line pos=0.000000,0.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99989
+Expected line name useAppearIndex not found in line pos=0.000000,0.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99994
+Expected line name useAppearIndex not found in line pos=0.000000,0.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=1090
+Expected line name useAppearIndex not found in line pos=0.000000,-30.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=1107
+Expected line name useAppearIndex not found in line pos=-3.000000,41.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=99966
+Expected line name useAppearIndex not found in line pos=0.000000,0.000000
+Expected line name headIndex not found in line creationSoundInitialOnly=0
+Expected line name bodyIndex not found in line numSlots=0#timeStretch=1.000000
+Expected line name backFootIndex not found in line slotSize=1.000000
+Expected line name frontFootIndex not found in line slotsLocked=0
+Expected line name useVanishIndex not found in line spriteID=978
+Expected line name useAppearIndex not found in line pos=2.000000,-21.000000
+Loaded 2148 objects from objects folder
+Finished loading object bank in 0.396000 sec
+Decompressing took -0.000000 seconds
+Loaded 88 categories from categories folder
+Finished loading category bank in 0.030000 sec
+Decompressing took 0.002000 seconds
+Frame rate = 45.310376 frames/second
+Loaded 2546 transitions from transitions folder
+Frame rate = 93.109859 frames/second
+Frame rate = 253.807226 frames/second
+Frame rate = 268.817047 frames/second
+Frame rate = 273.224091 frames/second
+Parsing dictionary file of 122819 words took 30.999924 ms
+Frame rate = 174.825167 frames/second
+Frame rate = 202.839744 frames/second
+Frame rate = 425.532105 frames/second
+Frame rate = 469.483438 frames/second
+Frame rate = 478.468646 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 492.611249 frames/second
+Frame rate = 473.933191 frames/second
+Frame rate = 476.190930 frames/second
+Frame rate = 490.196088 frames/second
+Frame rate = 487.804492 frames/second
+Frame rate = 515.463902 frames/second
+Frame rate = 526.316291 frames/second
+Frame rate = 518.134505 frames/second
+Frame rate = 485.436682 frames/second
+Frame rate = 512.820688 frames/second
+Frame rate = 505.050622 frames/second
+Frame rate = 483.091747 frames/second
+Frame rate = 483.091747 frames/second
+Frame rate = 499.999881 frames/second
+Frame rate = 529.100166 frames/second
+Frame rate = 487.805060 frames/second
+Frame rate = 505.050622 frames/second
+Frame rate = 456.620794 frames/second
+Frame rate = 467.289749 frames/second
+Frame rate = 458.715733 frames/second
+Frame rate = 531.914996 frames/second
+Frame rate = 497.512499 frames/second
+Frame rate = 462.962791 frames/second
+Frame rate = 500.000477 frames/second
+Frame rate = 414.937457 frames/second
+Frame rate = 396.825625 frames/second
+Frame rate = 361.010895 frames/second
+Frame rate = 398.406111 frames/second
+Frame rate = 462.963302 frames/second
+Frame rate = 471.697820 frames/second
+Frame rate = 476.190390 frames/second
+Frame rate = 431.034717 frames/second
+Frame rate = 413.222965 frames/second
+Frame rate = 446.428617 frames/second
+Frame rate = 440.528638 frames/second
+Frame rate = 446.428617 frames/second
+Frame rate = 502.512861 frames/second
+Frame rate = 505.050014 frames/second
+Frame rate = 448.430873 frames/second
+Frame rate = 444.444162 frames/second
+Frame rate = 454.545395 frames/second
+Frame rate = 485.437244 frames/second
+Frame rate = 480.768808 frames/second
+Frame rate = 465.116465 frames/second
+Frame rate = 492.610671 frames/second
+Frame rate = 480.769359 frames/second
+Frame rate = 364.963598 frames/second
+Frame rate = 469.483438 frames/second
+Frame rate = 416.666650 frames/second
+Frame rate = 462.963302 frames/second
+Frame rate = 438.596176 frames/second
+Frame rate = 465.116465 frames/second
+Searching for 87784, skips = 0,0
+Frame rate = 473.933726 frames/second
+Frame rate = 531.914996 frames/second
+Frame rate = 531.914996 frames/second
+Frame rate = 492.610671 frames/second
+Frame rate = 446.428617 frames/second
+Frame rate = 452.488778 frames/second
+Frame rate = 497.512499 frames/second
+Frame rate = 540.540011 frames/second
+Frame rate = 518.135145 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 515.463902 frames/second
+Frame rate = 518.134505 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 505.050622 frames/second
+Frame rate = 499.999881 frames/second
+Frame rate = 540.540708 frames/second
+Frame rate = 458.715231 frames/second
+Frame rate = 487.805060 frames/second
+Frame rate = 515.463902 frames/second
+Frame rate = 502.512861 frames/second
+Frame rate = 478.468646 frames/second
+Frame rate = 448.430394 frames/second
+Frame rate = 436.681503 frames/second
+Frame rate = 467.289749 frames/second
+Frame rate = 497.512499 frames/second
+Frame rate = 529.100166 frames/second
+Frame rate = 499.999881 frames/second
+Frame rate = 529.100833 frames/second
+Frame rate = 490.196088 frames/second
+Frame rate = 507.614144 frames/second
+Frame rate = 219.780257 frames/second
+Frame rate = 218.818373 frames/second
+Frame rate = 222.717090 frames/second
+Frame rate = 213.675243 frames/second
+Frame rate = 194.552552 frames/second
+Frame rate = 260.416624 frames/second
+Frame rate = 257.069449 frames/second
+Frame rate = 252.525159 frames/second
+Frame rate = 261.096676 frames/second
+Frame rate = 253.164569 frames/second
+Frame rate = 234.192012 frames/second
+Frame rate = 234.192012 frames/second
+Frame rate = 236.406698 frames/second
+Frame rate = 224.719014 frames/second
+Frame rate = 203.666014 frames/second
+Frame rate = 216.450266 frames/second
+Frame rate = 218.340524 frames/second
+Frame rate = 175.438617 frames/second
+Frame rate = 169.204715 frames/second
+Frame rate = 168.350207 frames/second
+Frame rate = 173.913029 frames/second
+Frame rate = 167.504153 frames/second
+Frame rate = 169.204783 frames/second
+Frame rate = 170.357713 frames/second
+Frame rate = 170.648474 frames/second
+Frame rate = 168.067219 frames/second
+Frame rate = 164.744680 frames/second
+Frame rate = 168.350140 frames/second
+Frame rate = 170.357782 frames/second
+Frame rate = 166.944915 frames/second
+Frame rate = 169.491482 frames/second
+Frame rate = 171.526603 frames/second
+Frame rate = 165.016516 frames/second
+Frame rate = 166.666627 frames/second
+Frame rate = 168.350207 frames/second
+Frame rate = 167.785247 frames/second
+Frame rate = 164.203621 frames/second
+Frame rate = 167.224066 frames/second
+Frame rate = 162.337679 frames/second
+Frame rate = 168.067219 frames/second
+Frame rate = 167.504153 frames/second
+Frame rate = 165.837500 frames/second
+Frame rate = 193.798437 frames/second
+Frame rate = 196.078435 frames/second
+Frame rate = 185.185198 frames/second
+Frame rate = 197.628442 frames/second
+Frame rate = 176.056314 frames/second
+Frame rate = 177.935932 frames/second
+Frame rate = 180.505447 frames/second
+Frame rate = 182.149354 frames/second
+Frame rate = 176.678450 frames/second
+Frame rate = 177.619905 frames/second
+Frame rate = 177.304924 frames/second
+Frame rate = 177.304999 frames/second
+Frame rate = 178.253085 frames/second
+Frame rate = 176.366870 frames/second
+Frame rate = 320.512783 frames/second
+Frame rate = 469.483438 frames/second
+Frame rate = 515.464536 frames/second
+Frame rate = 549.450066 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 510.204444 frames/second
+Frame rate = 515.463902 frames/second
+Frame rate = 520.832925 frames/second
+Frame rate = 480.769359 frames/second
+Frame rate = 434.782573 frames/second
+Frame rate = 537.634784 frames/second
+Searching for 87785, skips = 0,0
+Frame rate = 499.999881 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 520.832925 frames/second
+Frame rate = 476.190390 frames/second
+Frame rate = 485.437244 frames/second
+Frame rate = 526.315631 frames/second
+Frame rate = 529.100833 frames/second
+Frame rate = 518.134505 frames/second
+Frame rate = 523.560251 frames/second
+Frame rate = 495.049159 frames/second
+Frame rate = 483.092304 frames/second
+Frame rate = 452.488289 frames/second
+Frame rate = 450.450687 frames/second
+Frame rate = 452.488778 frames/second
+Frame rate = 467.289749 frames/second
+Frame rate = 495.049159 frames/second
+Frame rate = 520.833571 frames/second
+Frame rate = 497.512499 frames/second
+Frame rate = 520.832925 frames/second
+Frame rate = 505.050622 frames/second
+Frame rate = 483.091747 frames/second
+Frame rate = 512.820688 frames/second
+Frame rate = 448.430394 frames/second
+Frame rate = 502.512861 frames/second
+Frame rate = 499.999881 frames/second
+Frame rate = 465.116465 frames/second
+Frame rate = 523.559598 frames/second
+Frame rate = 495.049743 frames/second
+Frame rate = 492.610671 frames/second
+Frame rate = 480.769359 frames/second
+Frame rate = 471.698351 frames/second
+Frame rate = 492.610671 frames/second
+Frame rate = 462.962791 frames/second
+Frame rate = 483.091747 frames/second
+Frame rate = 465.116465 frames/second
+Frame rate = 495.049743 frames/second
+Frame rate = 480.768808 frames/second
+Frame rate = 444.444633 frames/second
+Frame rate = 431.034274 frames/second
